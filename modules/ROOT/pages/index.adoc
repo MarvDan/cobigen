@@ -1,7 +1,7 @@
 :toc:
 toc::[]
 
-==CobiGen - Code-based incremental Generator
+== CobiGen - Code-based incremental Generator
 
 
 == Overview
